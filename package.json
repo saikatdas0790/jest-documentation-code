@@ -1,0 +1,27 @@
+{
+  "name": "jest-documentation-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikatdas0790/jest-documentation-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikatdas0790/jest-documentation-code/issues"
+  },
+  "homepage": "https://github.com/saikatdas0790/jest-documentation-code#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-jest": "^23.8.2"
+  }
+}
