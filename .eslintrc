@@ -5,6 +5,7 @@
     "jest/prefer-expect-assertions": "off",
     "jest/require-top-level-describe": "off",
     "jest/no-truthy-falsy": "off",
-    "jest/require-to-throw-message": "off"
+    "jest/require-to-throw-message": "off",
+    "jest/no-test-return-statement": "off"
   }
 }
