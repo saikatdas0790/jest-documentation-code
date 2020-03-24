@@ -1,4 +1,10 @@
 {
   "parserOptions": { "ecmaVersion": 2020 },
-  "extends": ["plugin:prettier/recommended", "plugin:jest/all"]
+  "extends": ["prettier", "plugin:jest/all"],
+  "rules": {
+    "jest/prefer-expect-assertions": "off",
+    "jest/require-top-level-describe": "off",
+    "jest/no-truthy-falsy": "off",
+    "jest/require-to-throw-message": "off"
+  }
 }
